@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Valentina Maffei Coy
+## Business Marketing Student | Digital Marketing & Data Analytics Enthusiast
 
-<!--
-**valentinamaffeisjcc/valentinamaffeisjcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Marketing student at San Jose City College with a strong interest in digital marketing, data analytics and growth strategy. I enjoy working on projects that combine creativity, technology and strategic thinking. I’m currently building my portfolio through hands-on marketing and tech projects.
 
-Here are some ideas to get you started:
+### Current Projects
+- PawBox: subscription box concept for pets, including branding, landing page and promotional campaign
+- Notary Service Platform Prototype: research-based project focused on user needs and legal regulations in California
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- Data analytics with Python
+- Front-end basics (HTML, CSS, JavaScript)
+- Tools for digital marketing, SEO and automation
+
+### Tools I Use
+- Git, GitHub, VS Code
+- Google Analytics, Canva, Figma
+- Python (beginner), JavaScript (beginner)
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/valentina-maffei-coy-203588155/
+- Email: [1valentinamaffei@gmail.com]
+
+
